@@ -1,0 +1,1 @@
+D:\datos\Mis documentos\GitHub\ColorMaker\ColorMaker\ColorMaker.csproj;x64
